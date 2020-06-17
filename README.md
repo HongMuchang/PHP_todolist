@@ -1,11 +1,16 @@
+#　PHP_todolist
+
+##CRUD機能メモアプリ 
+
+##使用言語(PHP,Bootstrap)
+2020-06-15
+
+
 page=1...LIMIT 0,5
 page=2...LIMIT 5,5
 page=3...LIMIT 10,5
 
 5*(page-1)
-
-
-
 
 1...1P 0.2 1
 2...1P 0.4 1
